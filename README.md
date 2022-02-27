@@ -9,7 +9,7 @@ It is a beautiful spring day, and it is two weeks since you have been hired as a
 ## Instructions
 
 #### Data Modeling
-![employee_db_ERD.png](employee_db_ERD.png)
+![employee_db_ERD.png](https://github.com/RobSalazar/sql-challenge/blob/main/images/employee_db_ERD.png)
 [Created with](http://www.quickdatabasediagrams.com)
 
 #### Data Engineering

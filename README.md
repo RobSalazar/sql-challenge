@@ -16,7 +16,7 @@ It is a beautiful spring day, and it is two weeks since you have been hired as a
 
 * Use the information you have to create a table [schema](https://github.com/RobSalazar/sql-challenge/blob/main/EmployeeSQL/tables_schema.sql) for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 
-#### Data Analysis
+#### [Data Analysis](https://github.com/RobSalazar/sql-challenge/blob/main/EmployeeSQL/data_analysis.sql)
 
 Once you have a complete database, do the following:
 
@@ -49,3 +49,4 @@ Create a bar chart of average salary by title.
 ## Epilogue
 
 Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
+![epilogue.PNG](https://github.com/RobSalazar/sql-challenge/blob/main/images/epilogue.PNG)

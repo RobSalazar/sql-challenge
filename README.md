@@ -10,7 +10,7 @@ It is a beautiful spring day, and it is two weeks since you have been hired as a
 
 #### Data Modeling
 ![employee_db_ERD.png](https://github.com/RobSalazar/sql-challenge/blob/main/images/employee_db_ERD.png)
-[Created with](http://www.quickdatabasediagrams.com)
+[Click here to make your own ERD!](http://www.quickdatabasediagrams.com)
 
 #### Data Engineering
 
@@ -41,10 +41,10 @@ Once you have a complete database, do the following:
 As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. You surmise that your boss handed you spurious data in order to test the data engineering skills of a new employee. To confirm your hunch, you decide to take the following steps to generate a visualization of the data, with which you will confront your boss:
 
 Create a histogram to visualize the most common salary ranges for employees.
-![employee_salary_histogram.PNG](employee_salary_histogram.PNG)
+![employee_salary_histogram.PNG](https://github.com/RobSalazar/sql-challenge/blob/main/images/employee_salary_histogram.PNG)
 
 Create a bar chart of average salary by title.
-![employee_salary_barchart.PNG](employee_salary_barchart.PNG)
+![employee_salary_barchart.PNG](https://github.com/RobSalazar/sql-challenge/blob/main/images/employee_salary_barchart.PNG)
 
 ## Epilogue
 

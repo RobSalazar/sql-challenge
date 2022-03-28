@@ -1,6 +1,8 @@
 # SQL Homework - Employee Database: A Mystery in Two Parts
 
-![sql.png](sql.png)
+<p align="center">
+  <img src="https://github.com/RobSalazar/sql-challenge/blob/main/sql.png" />
+</p>
 
 ## Background
 
